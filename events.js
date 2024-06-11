@@ -25,6 +25,7 @@ jumpDownButton.addEventListener("click", function() {
 });
 
 // 3. When change color button is clicked, background color changes. 
+
 changeColorButton.addEventListener("click", function() {
     background.style.backgroundColor = "springGreen"; // you can change the color to something different
 });
